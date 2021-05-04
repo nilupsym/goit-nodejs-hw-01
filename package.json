@@ -1,0 +1,13 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilupsym/goit-nodejs-hw-01.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
